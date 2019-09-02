@@ -1,0 +1,6 @@
+Rencana konten
+
+-javascript
+-php framework
+-interview
+-membuat vlog
