@@ -2,6 +2,9 @@ Rencana konten
 
 -javascript
 uu
+voew
+react
 -php framework
+laravel
 -interview
 -membuat vlog
