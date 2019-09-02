@@ -2,5 +2,5 @@ HILMAN RESOLUSI
 -Konsisten untuk membuat aplikasi
 -Membuat Rest API
 -Membuat Aplikasi pendataan Basis Android
--Membuat Admin kelola
 -selesaikan Skripsi
+-Selesaikan
